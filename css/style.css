@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    img{
+        background-color: white;
+    width: 30px;
+    border-radius: 50px;
+    margin: 20px 0 0 110px;
+    position: absolute;
+    top: 0;
+    }
+    
+    h1{
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    margin: 20px 0 50px 0;
+    
+    }
+    
+    form{
+    background: white;
+    height: 820px;
+    border-radius: 10px 10px 10px 0;
+    padding: 0 20px;
+    
+    }
+    
+    header{
+    text-align: center;
+    padding: 30px 0 30px 0;
+    }
+    
+    header h3{
+    color: rgb(8, 76, 235);
+    font-size: 20px;
+    font-weight:600;
+    }
+    
+    header h4{
+    font-size: 12px;
+    font-weight: 100;
+    
+    }
+    
+    header span{
+    font-size: 24px;
+    }
+    
+    form{
+    cursor: pointer;
+    }
+    
+    form h2{
+    font-size: 12px;
+    font-weight: 900;
+    margin: 0 0 10px 0;
+    }
+    
+    input{
+    height: 50px;
+    width: 100%;
+    margin: 0 0 30px 0;
+    background-color: rgb(234, 234, 240);
+    border: 1em;
+    border-radius: 1mm;
+    }
+    
+    input.placeholder{
+    padding: 0 0 0 10px;
+    }
+    select{
+        height: 50px;
+        width: 100%;
+        margin: 0 0 30px 0;
+        background-color: rgb(234, 234, 240);
+        font: 1em sans-serif;
+        font-weight: lighter;
+        
+    }
+    
+    button{
+        height: 60px;
+        width: 100%;
+        background-color: rgb(48, 31, 141);
+        font-weight: 40;
+        border-radius: 10px 10px 10px 0;
+        color: white;
+    }
+    
+    body{
+    background-color: rgb(24, 14, 80);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 150vh;
+    margin: 0 35%
+}
+
+h5{
+    text-align: center;
+    color: white;
+    margin: 20px 0 0  0;
+}
